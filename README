@@ -1,0 +1,11 @@
+# Useful applescripts 
+
+## exportNotesToEvernote.scpt - Backup Apple's notes app and import into Evernote
+- You can exclude folders e.g. see: `skipFoldersList` Recently Deleted
+- Handles long titles which exceed max size
+- Tags notes to search for later 
+- exports to Evernote notebook based on account e.g. On My Mac, Icloud, Gmail, etc
+
+TODO Handle attachments, cleanup after x months, logging
+
+---
